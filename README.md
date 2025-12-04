@@ -1,4 +1,4 @@
-rabalho realizado para o ciclo avaliativo da matéria de estrutura de dados, ministrada pelo professor José William.
+Trabalho realizado para o ciclo avaliativo da matéria de estrutura de dados, ministrada pelo professor José William.
 
 Nome dos integrantes do projeto: Thiago Vilela Lima, Filipe Trotte, Zeneida Girão, Jarbas Cardoso, Julio Cesar, Felipe Espinola
 
