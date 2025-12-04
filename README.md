@@ -92,3 +92,11 @@ Configurações Globais (settings.py e apps.py) Configuração Regional: Defini�
 Registro de App: Inclusão da aplicação Cadastros na lista INSTALLED_APPS.
 
 Essas implementações estabelecem a estrutura fundamental do banco de dados e a interface administrativa do Sistema de Cadastros de Adoção.
+
+
+Tentativa de colocar prints da tela de Admin direto no Readme:
+
+(COPIAR A URL NA PROPRIEDADE SRC PARA ABRIR AS IMAGENS)
+<img width="1916" height="910" alt="Sem titulo3" src="https://github.com/user-attachments/assets/6c03d43e-06f1-4e26-b6b4-e19a719120e1" />
+<img width="1915" height="910" alt="Sem titulo2" src="https://github.com/user-attachments/assets/efd8abd3-f338-499b-b2fe-b6b05478828d" />
+<img width="1918" height="914" alt="Sem título" src="https://github.com/user-attachments/assets/efa059c8-5f79-429c-97d9-ab12fe9cf219" />
